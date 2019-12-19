@@ -1,0 +1,8 @@
+One Loop: Number of Words: 100: Time: 3
+One Loop: Number of Words: 1000: Time: 4
+One Loop: Number of Words: 10000: Time: 49
+One Loop: Number of Words: 100000: Time: 398
+Three Loop: Number of Words: 100: Time: 1
+Three Loop: Number of Words: 1000: Time: 1
+Three Loop: Number of Words: 10000: Time: 15
+Three Loop: Number of Words: 100000: Time: 159
